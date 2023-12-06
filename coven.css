@@ -1,0 +1,42 @@
+body{
+  background-image: url("/home/joao/lol (cópia 1)/images/fundocoven.png");
+    background-attachment: fixed;
+    
+} 
+
+.container-texto-links div{
+    width: 150px;
+    display: inline-flex;
+    align-items:center;
+    justify-content:center;
+  
+  
+  }
+
+  .container div{
+    width: 450px;
+    height: 250px;
+    display: flex;
+    margin:90px;
+    align-items:center;
+    justify-content:center;
+  }
+  
+  .container{
+  display:flex;
+  }
+
+
+  .container-texto div{
+    width: 650px;
+    height: 100px;
+    display: flex;
+    margin:10px;
+    align-items:center;
+    justify-content:center;
+  }
+  
+  .container-texto{
+  display:flex;
+  }
+  

@@ -1,0 +1,96 @@
+body{
+    
+    background-image: url("/home/joao/lol (cópia 1)/images/fundooriginalhistoria.png");
+    background-attachment: fixed;
+    
+} 
+
+.container-texto-links div{
+  width: 150px;
+  
+  display: inline-flex;
+  align-items:center;
+  justify-content:center;
+
+
+} 
+
+.container div{
+    width: 950px;
+    height: 300px;
+    display: flex;
+    margin:150px;
+    align-items:center;
+    justify-content:center;
+  }
+  
+  .container{
+  display:flex;
+  }
+  
+  .container2 div{
+    width: 950px;
+    height: 300px;
+    display: flex;
+    margin:150px;
+    align-items:center;
+    justify-content:center;
+  }
+  
+  .container2{
+  display:flex;
+  }
+
+  .container3 div{
+    width: 950px;
+    height: 300px;
+    display: flex;
+    margin:150px;
+    align-items:center;
+    justify-content:center;
+  }
+  
+  .container3{
+  display:flex;
+  }
+
+  .container4 div{
+    width: 950px;
+    height: 200px;
+    display: flex;
+    margin:150px;
+    align-items:center;
+    justify-content:center;
+  }
+  
+  .container4{
+  display:flex;
+  }
+
+  .container5 div{
+    width: 950px;
+    height: 200px;
+    display: flex;
+    margin:250px;
+    align-items:center;
+    justify-content:center;
+  }
+  
+  .container5{
+  display:flex;
+  }
+
+  .container6 div{
+    width: 950px;
+    height: 200px;
+    display: flex;
+    margin:150px;
+    align-items:center;
+    justify-content:center;
+  }
+  
+  .container6{
+  display:flex;
+  }
+
+ 

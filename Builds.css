@@ -1,0 +1,38 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+body {
+    background-color: black;
+    }
+    
+    .container-texto-links div{
+      width: 150px;
+      display: inline-flex;
+      align-items:center;
+      justify-content:center;
+    
+    
+    }
+    
+    .container div{
+      width: 450px;
+      height: 450px;
+      display: flex;
+      margin:80px;
+      align-items:center;
+      justify-content:center;
+    }
+    
+    .container{
+    display:flex;
+    }
